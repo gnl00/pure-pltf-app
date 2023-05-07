@@ -1,10 +1,13 @@
 <script setup>
 import Header from "./components/Header/Header.vue";
+import Background from "./components/Background/Background.vue";
 </script>
 
 <template>
   <Header />
-  <router-view />
+  <Background>
+	  <router-view />
+  </Background>
 </template>
 
 <style scoped>
