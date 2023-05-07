@@ -4,7 +4,7 @@
 
 <template>
   <div id="header">
-      <h1 class="m-3 object-none object-left-top text-3xl font-bold">
+      <h1 class="m-5 object-none object-left-top text-5xl font-bold">
           pure-pltf-web
       </h1>
   </div>
